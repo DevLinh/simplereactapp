@@ -1,0 +1,13 @@
+{
+  "main.css": "/simplereactapp/static/css/main.8c4f7f62.chunk.css",
+  "main.js": "/simplereactapp/static/js/main.26714bd0.chunk.js",
+  "main.js.map": "/simplereactapp/static/js/main.26714bd0.chunk.js.map",
+  "static/js/1.bcefb647.chunk.js": "/simplereactapp/static/js/1.bcefb647.chunk.js",
+  "static/js/1.bcefb647.chunk.js.map": "/simplereactapp/static/js/1.bcefb647.chunk.js.map",
+  "runtime~main.js": "/simplereactapp/static/js/runtime~main.4d2ba6fb.js",
+  "runtime~main.js.map": "/simplereactapp/static/js/runtime~main.4d2ba6fb.js.map",
+  "static/css/main.8c4f7f62.chunk.css.map": "/simplereactapp/static/css/main.8c4f7f62.chunk.css.map",
+  "index.html": "/simplereactapp/index.html",
+  "precache-manifest.35388ad8108fab69732646e1fda32a73.js": "/simplereactapp/precache-manifest.35388ad8108fab69732646e1fda32a73.js",
+  "service-worker.js": "/simplereactapp/service-worker.js"
+}
